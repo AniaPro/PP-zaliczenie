@@ -1,0 +1,30 @@
+imiê i nazwisko: Ania Prokop
+tytu³ projektu: (jeszcze nie ma)
+
+opis:
+
+1. Program bêdzie zbudowany na podstawie projektu Paw³a Janickiego, 
+dziêki któremu jesteœmy w stanie ruchem w zakresie widzenia kamery
+(na zasadzie kontrastu) uaktywniæ konkretne pole. 
+
+W górnej czêœci zakresu widzenia kamery umieszczê kilka pól 
+(prostok¹tnych)z przypisanymi do nich samplami.
+
+Po lewej i prawej stronie umieszczê po dwa pola
+z podk³adami muzycznymi. 
+
+Odbiorca bêdzie w ten sposób móg³ swoim ruchem graæ / zestawiaæ
+podk³ady z samplami i tworzyæ w³asne utwory.
+
+
+2. Wszystkie uaktywnienia pól bêd¹ wizualizowane na ekranie.
+Wygl¹d graficzny jeszcze nie jest ustalony - wstêpnie - ka¿demu
+polu przypisany bêdzie jeden kolor:
+- podk³ady bêd¹ rysowane kreskami poziomymi
+- sample bêd¹ rysowane kreskami poziomymi tu¿ nad podk³adami
+
+Bêdzie to zapis / wizualizacja dzia³añ dŸwiêkowych.
+
+3. Mo¿liwe, ¿e ustalê kilka sekwencji dŸwiêków/pól, które
+bêd¹ coœ ciekawego dodawa³y do standardowej wizualizacji 
+(jeœli ktoœ je odkryje).
